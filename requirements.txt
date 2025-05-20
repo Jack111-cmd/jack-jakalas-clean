@@ -1,0 +1,6 @@
+Flask
+Flask-SQLAlchemy
+redis
+psycopg2-binary
+TA-Lib
+gunicorn
